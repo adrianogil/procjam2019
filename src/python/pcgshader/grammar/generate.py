@@ -2,8 +2,6 @@
 from simplegrammar import SimpleGrammar
 from pcgshader.glslviewer import GlslViewer
 
-import time
-
 
 def generate(target_shader, target_file):
     """
